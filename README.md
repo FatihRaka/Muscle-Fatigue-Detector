@@ -1,1 +1,5 @@
 # Muscle-Fatigue-Detector
+
+EN: Muscle-Fatigue-Detector is a real-time muscle fatigue detection system using OYMotion gForce200 Gesture Armband Sensor and Arduino FFT on ESP32 S3. The system captures EMG signals from 8 channels, processes them using Fast Fourier Transform (FFT), and calculates Median Frequency (MDF) and Mean Frequency (MNF) to detect muscle fatigue. If fatigue is detected, an LED indicator is triggered. This project is useful for sports science, rehabilitation, and human-computer interaction applications.
+
+ID: Muscle-Fatigue-Detector adalah sistem deteksi kelelahan otot secara real-time yang menggunakan OYMotion gForce200 Gesture Armband Sensor dan Arduino FFT pada ESP32 S3. Sistem ini menangkap sinyal EMG dari 8 channel, memprosesnya menggunakan Fast Fourier Transform (FFT), dan menghitung Median Frequency (MDF) serta Mean Frequency (MNF) untuk mendeteksi kelelahan otot. Jika kelelahan terdeteksi, indikator LED akan menyala. Proyek ini bermanfaat untuk ilmu olahraga, rehabilitasi, dan interaksi manusia-komputer.
